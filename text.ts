@@ -1,3 +1,3 @@
 type A = {
-  a: 'jopa'
+  a: 'pise4ki devo4ek'
 }
